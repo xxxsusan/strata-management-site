@@ -1,4 +1,4 @@
-
+"use client";
 const App = () => {
   const links = [
     { label: 'notice', url: 'https://strata-management-site-sage.vercel.app/notification' },
